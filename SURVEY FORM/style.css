@@ -1,0 +1,44 @@
+@font-face {
+	font-family: Berlin;
+	src: url("Berlin Sans FB Regular.ttf");
+}
+
+@font-face {
+	font-family: Quiska;
+	src: url(Quiska.ttf);
+}
+
+* {
+	border: border-box;
+}
+
+body {
+	background-color: #fbfbfb;
+	font-family: Berlin;
+	padding-top: 100px;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	color:#3fbdf0;
+	font-family: Quiska;
+}
+
+h3 {
+	color: #0168bb;
+	font-family: Quiska;
+	text-align: center;
+}
+
+nav {
+	font-family: Quiska;
+	color: #3fbdf0;
+}
+
+
+#tittle {
+	text-align: center;
+}
